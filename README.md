@@ -4,7 +4,7 @@ This repository includes the open-source code and associated documentation, of t
 
 ## Note
 
-The actual Python code for this work together with its associated documentation will only be available here after the acceptance of the manuscript.
+The code and associated documentation will only be available here after the acceptance of the manuscript.
 
 ## Citation
 
