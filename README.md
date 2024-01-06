@@ -1,6 +1,10 @@
 # Prognostic Stratification of GBM Patients by Unsupervised Clustering of Morphology Patterns on WSI
 
-This repository includes the open-source code and associated documentation, of the approach described in the following manuscript. If you use this code or refer to this code please include an appropriate citation:
+This repository includes the open-source code and associated documentation, of the approach described in the following manuscript. If you use this code or refer to this code please include an appropriate citation.
+
+## Note
+
+The actual Python code for this work together with its associated documentation will only be available here after the acceptance of the manuscript.
 
 ## Citation
 
