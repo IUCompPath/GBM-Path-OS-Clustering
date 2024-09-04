@@ -2,9 +2,25 @@
 
 This repository includes the open-source code and associated documentation, of the approach described in the following manuscript. If you use this code or refer to this code, please include the appropriate citation.
 
-## Note
+## Training Steps
 
-The manuscript is currently under review. The code and associated documentation will be available here after the acceptance of the manuscript.
+Follow the following steps to create patches, extract features, train the classifier to stratify the patients OS into low and high-risk.
+
+### Create Patches
+
+Code for patching
+
+### Extract Features
+
+Code for features
+
+### Train the Classifier
+
+Code for training the classifier
+
+### Calculation of Rand Index and Silhouette Scores
+
+Additional code for Rand Index and Silhouette Scores.
 
 ## Citation
 
