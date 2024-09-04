@@ -6,9 +6,36 @@ This repository includes the open-source code and associated documentation, of t
 
 Follow the following steps to create patches, extract features, train the classifier to stratify the patients OS into low and high-risk.
 
+```bash
+DATA_DIRECTORY/
+	├── slide_1.svs
+	├── slide_2.svs
+	└── ...
+```
+
+* `--custom_downsample`:
 ### Create Patches
 
-Code for patching
+``` shell
+python create_patches_fp.py 
+```
+
+```bash
+RESULTS_DIRECTORY/
+	├── masks
+    		├── slide_1.png
+    		├── slide_2.png
+    		└── ...
+	├── patches
+    		├── slide_1.h5
+    		├── slide_2.h5
+    		└── ...
+	├── stitches
+    		├── slide_1.png
+    		├── slide_2.png
+    		└── ...
+	└── process_list_autogen.csv
+```
 
 ### Extract Features
 
