@@ -1,4 +1,5 @@
-# Prognostic Stratification of GBM Patients by Unsupervised Clustering of Morphology Patterns on WSI
+# Prognostic stratification of glioblastoma patients by unsupervised clustering of morphology patterns on whole slide images furthering our disease understanding
+
 
 This repository includes the open-source code and associated documentation, of the approach described in the following manuscript. If you use this code or refer to this code, please include the appropriate citation.
 
